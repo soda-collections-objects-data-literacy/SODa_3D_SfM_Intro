@@ -3,22 +3,22 @@
 author: Julian Cremerius (FAU/SODa)
 
 comment: Dieser Kurs soll in die Grundprinzipien der photographischen 3D-Digitalisierung einführen.
-
+date: 2025-07-11
 version: 0.1.0
 email: julian.cremerius@fau.de
 
 icon: ./res/soda.png
+logo: ./res/soda.png
 
 
 mode: Textbook
-
 dark: false
+
+link:       https://cdn.jsdelivr.net/gh/soda-collections-objects-data-literacy/OpenRefine-Beginner-Tutorial@main/theme.css
+            https://fonts.googleapis.com/css?family=Noto+Sans
 
 language: de
 
-@onload
-window.LIA.settings.theme = "yellow"
-@end
 
 
 -->
@@ -599,4 +599,33 @@ Folgende Kriterien können beispielsweise ausschlaggebend sein:
 > - Große IT-Kompetenzen/IT-Abteilung? -> Auf Basis von **three.js** oder sogar dem darunterliegenden **WebGL** können arbiträre 3D-Webanwendungen entwickelt werden
 
 
+## Impressum
 
+SODa – Sammlungen, Objekte, Datenkompetenzen: https://sammlungen.io/
+--------------------------------------------
+
+--------------------------------------------
+
+**Autor:**
+
+- Julian Cremerius (julian.cremerius@fau.de)
+
+
+---
+
+Version: 1.0
+Datum: 2025-07-11
+Repository: https://github.com/soda-collections-objects-data-literacy/SODa_3D_SfM_Intro
+
+---
+
+
+weitere Tutorials und Open Educational Resources: https://sammlungen.io/kb
+
+---
+
+gefördert durch:
+
+![Finanziert von der Europäischen Union](img/FinanziertVonDerEU.jpg)
+
+![Gefördert durch: Bundesministerium für Forschung, Technologie und Raumfahrt](img/BMFTR_de_Web_RGB_gef_durch.jpg)
