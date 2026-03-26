@@ -626,6 +626,6 @@ weitere Tutorials und Open Educational Resources: https://sammlungen.io/kb
 
 gefördert durch:
 
-![Finanziert von der Europäischen Union](img/FinanziertVonDerEU.jpg)
+![Finanziert von der Europäischen Union](res/FinanziertVonDerEU.jpg)
 
-![Gefördert durch: Bundesministerium für Forschung, Technologie und Raumfahrt](img/BMFTR_de_Web_RGB_gef_durch.jpg)
+![Gefördert durch: Bundesministerium für Forschung, Technologie und Raumfahrt](res/BMFTR_de_Web_RGB_gef_durch.jpg)
