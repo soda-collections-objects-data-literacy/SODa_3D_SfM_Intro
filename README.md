@@ -1,4 +1,4 @@
-Selbstlernkurs: Objekt-Digitalisierung mit einfachen Mitteln
+# Selbstlernkurs: Objekt-Digitalisierung mit einfachen Mitteln
 
 Diese Open Educational Ressource (OER) gibt einen Einblick in die Digitalisierung von Objekten mit einfachen Mitteln und Apps. Dieser Kurs ist für alle Personen gedacht, die noch keine Erfahrung mit 3D Digitalisierung haben oder diejenigen, die ihr Wissen gerne auffrischen möchten. Die OER wurde mittels LiaScript realisiert.
 
